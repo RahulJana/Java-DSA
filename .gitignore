@@ -2,5 +2,4 @@
 .vscode/
 *.iml
 out/
-.cph/
 *.class
