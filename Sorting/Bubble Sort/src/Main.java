@@ -47,6 +47,7 @@ public class Main {
         }
         bubbleSort(arr);
         print(arr);
+        scn.close();
     }
 
 }

@@ -62,6 +62,7 @@ public class Main {
         }
         int[] mergedArray = mergeTwoSortedArrays(a, b);
         print(mergedArray);
+        scn.close();
     }
 
 }

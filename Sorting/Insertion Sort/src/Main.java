@@ -49,6 +49,7 @@ public class Main {
         }
         insertionSort(arr);
         print(arr);
+        scn.close();
     }
 
 }
